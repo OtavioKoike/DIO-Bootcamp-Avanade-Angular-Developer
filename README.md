@@ -4,7 +4,7 @@
 
 Segue a lista de conteúdo do Bootcamp e a possível lista de anotações (Como o curso esta sendo feito, o repositório vai ser atualizado ao decorrer do tempo):
 
-- [Lógica de programação essencial]()
+- [Lógica de programação essencial](https://github.com/OtavioKoike/DIO-Bootcamp-Avanade-Angular-Developer/tree/master/Anota%C3%A7%C3%B5es/Logica-de-Programacao)
 - [Aprenda o que são Estruturas de Dados e Algoritmos](https://github.com/OtavioKoike/DIO-Bootcamp-Inter-Java-Developer/tree/master/Anota%C3%A7%C3%B5es/Estrutura-de-Dados)
 - [Introdução a criação de websites com HTML5 e CSS3]()
 - [Programação para internet com JavaScript]()
