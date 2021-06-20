@@ -25,4 +25,4 @@ Segue a lista de conteúdo do Bootcamp e a possível lista de anotações (Como 
 - [Implementando testes automatizados usando Cypress em uma aplicação Angular]()
 - [Criando projeto para consultar a previsão do tempo via API]()
 - [Conceitos avançados de performace e otimização usando Angular]()
-- [Desenvolvimento de problemas avançados em JavaScript]()
+- [Desenvolvimento de problemas avançados em JavaScript](https://github.com/OtavioKoike/DIO-Bootcamp-Avanade-Angular-Developer/tree/master/Desafios/Problemas-Avancados)
